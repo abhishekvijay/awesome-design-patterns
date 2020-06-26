@@ -1,4 +1,4 @@
-# Awesome Software Design Patterns 
+# Awesome Software and Architectual Design Patterns 
 <br>
 
 <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /> <a href="https://gitter.im/awesome-design-patterns/Lobby"><img src="https://badges.gitter.im/awesome-design-patterns/Lobby.svg" alt="awesome"></a> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> 
@@ -27,8 +27,6 @@
 - [Front End Development](#front-end-development)
 - [Security](#security)
 - [Books](#books)
-- [Videos](#videos)
-- [Miscellaneous](#miscellaneous)
 
 <br>
 
@@ -57,6 +55,8 @@
 	- [design patterns by addy osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
 - Kotlin
 	- [design-patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin) 
+- Node
+	- [Real world design patterns with Node.js](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
 - PHP
 	- [humans](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
 	- [design-patterns](https://github.com/domnikl/DesignPatternsPHP) 
@@ -78,6 +78,8 @@
 - UML
 	- [design-patterns quick reference](http://www.mcdonaldland.info/2007/11/28/40)
 	- [design-patterns cheat-sheet](https://www.slideshare.net/hustwj/design-patterns-cheat-sheet)
+- Vue.js
+	- [Vue Patterns](https://learn-vuejs.github.io/vue-patterns/) - Useful Vue patterns, techniques, tips and tricks and curated helpful links.
 	
 	
 ## General Architecture
@@ -100,6 +102,9 @@
 ## Serverless Architecture
 - [serverless architecture](https://thenewstack.io/serverless-architecture-five-design-patterns) - Serverless Architecture: Five Design Patterns.
 - [solving problems in serverless](https://freecontent.manning.com/patterns-for-solving-problems-in-serverless-architectures) - Patterns for Solving Problems in Serverless Architectures.
+- [serverless patterns](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/) - serverless microservice patterns for aws.
+
+
 
 ## Micro services & Distributed Systems
 - [microservice patterns](http://microservicepatterns.org) - A community site dedicated to documenting a master patterns catalog.
